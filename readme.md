@@ -41,15 +41,33 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 
-## Deployment
+## How to use
 
-Add additional notes about how to deploy this on a live system
+Notes about how to use this on a live system
+
+
+- **General chat** 
+
+    Navigate to url: `http://localhost:8000` 
+    
+    A text area where general questions related to any topic with modifiable length of characters in response.
+    Now, you will see home page have chat screen.
+    ![General chat](image.png)
+    
+
+- **News Summarization**
+    
+    Navigate to url: `http://localhost:8000/news`
+    
+    A text area where the piece of news article is to be pasted for accurate summarization with modifiable length of characters in response.
 
 ## Built With
 
 * [Django](https://www.djangoproject.com/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Langchain](https://www.langchain.com/) -  A framework for developing applications powered by language models. 
+* [t5-base-finetuned-summarize-news](https://huggingface.co/mrm8488/t5-base-finetuned-summarize-news) -  LLM model for news summarization
+* [vicuna-7B-v1.5-GGUF](https://huggingface.co/TheBloke/vicuna-7B-v1.5-GGUF) -  LLM model for General conversations
+
 
 ## Contributing
 
@@ -57,9 +75,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Versioning
+## UI - Design
 
-<!-- We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).  -->
+
+
 
 ## Authors
 
@@ -89,7 +108,3 @@ This project is licensed under the MIT License
 
 <!-- - see the [LICENSE.md](LICENSE.md) file for details -->
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* This effort was made to create a one-stop solution
