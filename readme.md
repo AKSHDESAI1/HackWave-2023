@@ -84,10 +84,8 @@ Please make sure to update tests as appropriate.
 
 * **Dhritiman Senpramanik** 
 * **Sahil Patel**
-* **Mansi Raval**
 * **Aksh Desai**
 * **Mitren Kadiwala**
-* **Meshv Patel**
 
 ## References
 
