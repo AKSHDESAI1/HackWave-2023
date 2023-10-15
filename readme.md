@@ -4,6 +4,9 @@
 
 Our proof of concept approach will consist of a Django website running on localhost , and we plan on using vicuna-13B via GGML format to run on CPUs for general chat functionalities and special fine tuned version of google’s T5 language Model for news article summarisation all running locally on consumer grade hardware without internet connection.
 
+Get an Overview of our Project Idea Here : https://youtu.be/Qp8qvDbq0qk
+
+Get Video demonstration of our Project Idea Here (Of two functionalities) : https://youtu.be/kn1fg4I7gwk
 
 ## Getting Started
 
