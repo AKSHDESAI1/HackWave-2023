@@ -1,12 +1,13 @@
 # IntraBotnyx: Your Organization's Intelligent Offline Assistant
 
+Get an Overview of our Project Idea Here : https://youtu.be/Qp8qvDbq0qk
+
+Get Video demonstration of our Project Idea Here (Of two functionalities) : https://youtu.be/kn1fg4I7gwk
+
 * "IntraBotnyx" is a revolutionary project enabling businesses and organizations to harness Large Language Models (LLMs) within their secure intranet environments, eliminating dependence on the internet. By integrating LLMs from diverse sources into Local Area Networks (LANs), it ensures offline access and upholds data security. Notably, it optimizes LLM performance on standard hardware, facilitating widespread AI integration for various tasks and workflow automation. Additionally, it deploys intelligent chatbots tailored to organization-specific data, fostering inter-departmental collaboration and enhancing employee support across functions from Human Resources to Business Intelligence.
 
 Our proof of concept approach will consist of a Django website running on localhost , and we plan on using vicuna-13B via GGML format to run on CPUs for general chat functionalities and special fine tuned version of google’s T5 language Model for news article summarisation all running locally on consumer grade hardware without internet connection.
 
-Get an Overview of our Project Idea Here : https://youtu.be/Qp8qvDbq0qk
-
-Get Video demonstration of our Project Idea Here (Of two functionalities) : https://youtu.be/kn1fg4I7gwk
 
 ## Getting Started
 
